@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joel, an <a href="https://www.linkedin.com/in/joel-rosas-50b653170/">IT Professional</a>☺</h1>
+<h1><a href="https://www.linkedin.com/in/joel-rosas-50b653170/">Joel's</a> IT and Cybersecuriy Project Portfolio</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
